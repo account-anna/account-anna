@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anna
 
-<!--
-**account-anna/account-anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi there! 👋 I'm a student at the University of Texas at Dallas, pursuing a degree in Computer Information Systems and Technology. I'm passionate about a career in:
+- Analytics
+- Business
+- Technology
+- Finance
+- Consulting
 
-Here are some ideas to get you started:
+## Current Learning Journey
+- 📈 **Data Analytics:** Exploring data-driven decision-making and visualization techniques.
+- ☁️ **Cloud Computing:** Understanding cloud infrastructure, services, and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+-Seeking opportunities to apply technical skills in real-world settings, collaborate with industry professionals, and contribute to the technology sector.
