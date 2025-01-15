@@ -1,7 +1,7 @@
 # Hi, I'm Anna
 
 ## About Me
-Hi there! 👋 I'm a student at the University of Texas at Dallas, pursuing a degree in Computer Information Systems and Technology. I'm passionate about a career in:
+I'm a student at the University of Texas at Dallas, pursuing a degree in Computer Information Systems and Technology. I'm passionate about a career in:
 - Analytics
 - Business
 - Technology
